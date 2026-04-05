@@ -1,2 +1,2 @@
-# name-samtar-creator
-A Fun code to print your name in a pattern using stars.
+# Simple Calculator
+Yeah, its a Simple Calculator!
